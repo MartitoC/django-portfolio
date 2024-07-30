@@ -1,0 +1,9 @@
+body {
+    background-color: #F8F8F8!important;
+    font-family: "Roboto", sans-serif!important;
+}
+.card-img-top {
+    width: 100%!important;
+    height: 200px!important; /* Ajusta la altura según tu diseño */
+    object-fit: cover!important; /* Asegura que la imagen cubra el contenedor sin deformarse */
+}
